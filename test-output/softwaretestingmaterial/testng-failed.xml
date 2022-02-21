@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [softwaretestingmaterial]" guice-stage="DEVELOPMENT">
+  <test name="testngTest(failed)">
+    <classes>
+      <class name="First_Package.Second">
+        <methods>
+          <include name="googleSearch"/>
+          <include name="launchBrowser"/>
+          <include name="googleTitleTest"/>
+          <include name="closeBrowser"/>
+          <include name="googleLogoTest"/>
+          <include name="mailLinkTest"/>
+          <include name="enterURL"/>
+          <include name="generateTestReport"/>
+          <include name="logOut"/>
+          <include name="deletAllCookies"/>
+          <include name="login"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- First_Package.Second -->
+    </classes>
+  </test> <!-- testngTest(failed) -->
+</suite> <!-- Failed suite [softwaretestingmaterial] -->

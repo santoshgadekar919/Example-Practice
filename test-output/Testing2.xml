@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="softwaretestingmaterial">
+	<test name="testngTest">
+		<classes>
+			<class name="First_Package.Second" />
+			<class name="First_Package.First" />
+		</classes>
+	</test>
+</suite>
